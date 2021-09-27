@@ -1,0 +1,15 @@
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\bin\Debug\net5.0\Dlayer.Core.deps.json
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\bin\Debug\net5.0\Dlayer.Core.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\bin\Debug\net5.0\ref\Dlayer.Core.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\bin\Debug\net5.0\Dlayer.Core.pdb
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\bin\Debug\net5.0\Dlayer.Entities.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\bin\Debug\net5.0\Dlayer.Entities.pdb
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\Dlayer.Core.csproj.AssemblyReference.cache
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\Dlayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\Dlayer.Core.AssemblyInfoInputs.cache
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\Dlayer.Core.AssemblyInfo.cs
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\Dlayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\Dlayer.Core.csproj.CopyComplete
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\Dlayer.Core.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\ref\Dlayer.Core.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Core\obj\Debug\net5.0\Dlayer.Core.pdb

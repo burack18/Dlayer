@@ -1,0 +1,12 @@
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\bin\Debug\net5.0\Dlayer.Business.deps.json
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\bin\Debug\net5.0\Dlayer.Business.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\bin\Debug\net5.0\ref\Dlayer.Business.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\bin\Debug\net5.0\Dlayer.Business.pdb
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\obj\Debug\net5.0\Dlayer.Business.csproj.AssemblyReference.cache
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\obj\Debug\net5.0\Dlayer.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\obj\Debug\net5.0\Dlayer.Business.AssemblyInfoInputs.cache
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\obj\Debug\net5.0\Dlayer.Business.AssemblyInfo.cs
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\obj\Debug\net5.0\Dlayer.Business.csproj.CoreCompileInputs.cache
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\obj\Debug\net5.0\Dlayer.Business.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\obj\Debug\net5.0\ref\Dlayer.Business.dll
+C:\Users\burack\source\repos\Dlayer\Dlayer.Business\obj\Debug\net5.0\Dlayer.Business.pdb

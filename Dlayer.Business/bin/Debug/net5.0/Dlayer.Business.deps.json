@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dlayer.Business/1.0.0": {
+        "runtime": {
+          "Dlayer.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dlayer.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

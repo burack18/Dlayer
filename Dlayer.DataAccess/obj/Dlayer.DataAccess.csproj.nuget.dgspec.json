@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.DataAccess\\Dlayer.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Core\\Dlayer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Core\\Dlayer.Core.csproj",
+        "projectName": "Dlayer.Core",
+        "projectPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Core\\Dlayer.Core.csproj",
+        "packagesPath": "C:\\Users\\burack\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\burack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Entities\\Dlayer.Entities.csproj": {
+                "projectPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Entities\\Dlayer.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.DataAccess\\Dlayer.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.DataAccess\\Dlayer.DataAccess.csproj",
+        "projectName": "Dlayer.DataAccess",
+        "projectPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.DataAccess\\Dlayer.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\burack\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\burack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Core\\Dlayer.Core.csproj": {
+                "projectPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Core\\Dlayer.Core.csproj"
+              },
+              "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Entities\\Dlayer.Entities.csproj": {
+                "projectPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Entities\\Dlayer.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Entities\\Dlayer.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Entities\\Dlayer.Entities.csproj",
+        "projectName": "Dlayer.Entities",
+        "projectPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Entities\\Dlayer.Entities.csproj",
+        "packagesPath": "C:\\Users\\burack\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\burack\\source\\repos\\Dlayer\\Dlayer.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\burack\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
